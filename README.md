@@ -41,11 +41,11 @@ I'm a Computer Science student passionate about software development, problem-so
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdvaySharma248&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdvaySharma248&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdvaySharma248&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
 
@@ -95,7 +95,7 @@ An AI-powered application that retrieves relevant information and generates cont
 ## 📫 Connect With Me
 
 - 📧 Email: advaysharma2489@gmail.com
-- 💼 LinkedIn: https://github.com/AdvaySharma248
+- 💼 LinkedIn: https://www.linkedin.com/in/advaysharma01
 - 💻 LeetCode: https://leetcode.com/u/Advay_Sharma/
 
 ---

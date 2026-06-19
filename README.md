@@ -1,6 +1,7 @@
 # Hi there, I'm Advay Sharma 👋
 
-### 🚀 Aspiring Software Engineer | Java Developer | DSA Enthusiast | AI & RAG Learner
+### 🚀 Full Stack Developer | MERN Stack & Next.js | DSA Enthusiast | Open Source Learner
+
 
 I'm a Computer Science student passionate about software development, problem-solving, and building impactful projects. I enjoy learning new technologies, creating real-world applications, and continuously improving my technical skills.
 

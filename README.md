@@ -95,9 +95,8 @@ An AI-powered application that retrieves relevant information and generates cont
 ## 📫 Connect With Me
 
 - 📧 Email: advaysharma2489@gmail.com
-- 💼 LinkedIn: YOUR_LINKEDIN_URL
-- 💻 LeetCode: YOUR_LEETCODE_URL
-- 🌐 Portfolio: YOUR_PORTFOLIO_URL
+- 💼 LinkedIn: https://github.com/AdvaySharma248
+- 💻 LeetCode: https://leetcode.com/u/Advay_Sharma/
 
 ---
 
